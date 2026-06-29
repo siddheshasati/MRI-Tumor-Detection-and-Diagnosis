@@ -12,6 +12,8 @@ This project implements a binary image classifier to detect the presence of brai
 
 ## 📁 Dataset
 
+Dataset: https://www.kaggle.com/datasets/siddheshasati/mri-brain-tumor?select=Brain+Tumor+Data+Set
+
 - **Source:** [`preetviradiya/brian-tumor-dataset`](https://www.kaggle.com/datasets/preetviradiya/brian-tumor-dataset) on Kaggle
 - **Classes:** `Brain Tumor` | `Healthy`
 - **Split:** 80% Training / 20% Validation
